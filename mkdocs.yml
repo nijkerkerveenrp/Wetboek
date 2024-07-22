@@ -11,12 +11,3 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Donkere modus
-
-
-nav:
-  - Welkom: index.md
-  - Server regels:
-    - Algemene regels: algemeneregels.md
-    - Offroad voertuigen: offroad.md
-  - Toetscombinaties: keybinds.md
-  - Community websites: communitysites.md
