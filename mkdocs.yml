@@ -1,0 +1,13 @@
+site_name: NijkerkerveenRP Regels
+theme:
+  name: material
+
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: ichte modus
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Donkere modus
