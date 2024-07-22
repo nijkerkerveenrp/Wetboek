@@ -11,3 +11,10 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Donkere modus
+
+
+nav:
+  - Server regels: index.md
+  - Discord: 'https://discord.gg/NQn8Y7uyKZ'
+  - Home: 'https://nijkerkerveenrp.github.io/'
+# Extensions
